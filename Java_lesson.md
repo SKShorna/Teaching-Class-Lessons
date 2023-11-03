@@ -15,7 +15,7 @@
 
 Note: If there is any confusion? Please feel free to reach me over email or make an appointment for a one-on-one discussion.
 
-Now, let's create a combination of exercises involving method overloading and overriding:
+Now, let's do a combination of exercises involving method overloading and overriding:
 
 ### Part 1
 
